@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👩‍💻 Hi there, I'm [Your Name]  
 
-<!--
-**shahdtarraf/shahdtarraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduated AI Developer** | Passionate about building intelligent systems  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🧠 Background in **Machine Learning, Deep Learning, NLP, and Computer Vision**  
+- 📊 Experienced with **Python, PyTorch, TensorFlow, Scikit-learn**  
+- 🌱 Exploring **MLOps, model deployment, and AI for real-world applications**  
+- 🤝 Open to collaborating on **AI, data science, and open-source projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages**: Python, SQL, JavaScript  
+- **AI/ML**: PyTorch, TensorFlow, Scikit-learn, Keras  
+- **Data**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools**: Git, Docker, Jupyter, VS Code  
+
+## 📂 Featured Projects  
+- 🔍 [Human Activity Recognition](#) – Deep learning models (ConvLSTM & LRCN) for activity detection  
+- 🗣️ [NLP Chatbot](#) – Transformer-based conversational AI  
+- 📈 [Stock Price Prediction](#) – Time-series forecasting using LSTMs  
+
+## 📫 Connect with Me  
+- 🌐 [Portfolio Website](#)  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+
+---
+
+⭐️ *Feel free to explore my repositories and reach out for collaboration!*  
